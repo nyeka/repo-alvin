@@ -6,7 +6,7 @@ import ThemeContextWrapper from "./components/ThemeWrapper";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename={env.procces.PUBLIC_URL}>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <ThemeContextWrapper>
       <App />
     </ThemeContextWrapper>
