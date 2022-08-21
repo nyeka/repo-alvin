@@ -12,7 +12,7 @@ export default function Class({ students, currentClass, classPhoto }) {
               <img
                 key={photo.id}
                 src={photo.imageUrl}
-                alt={`a class group photo of ${currentClass}`}
+                alt={`class of ${currentClass}`}
               ></img>
             ))}
         </div>
