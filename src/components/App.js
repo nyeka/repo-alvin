@@ -42,7 +42,7 @@ export default function App() {
         <header>
           <div className="image-text">
             <span className="image">
-              <img src="assets\images\general\Smansa-Logo.png"></img>
+              <img src="assets\images\general\Smansa-Logo.png alt="""></img>
             </span>
           </div>
         </header>
@@ -224,7 +224,7 @@ export default function App() {
             <a href="https://github.com/arma008/">arma008 on Github</a>. All
             photos are under approval of the owner. If you have a problem with
             the website or want to send a photo to display on album section,
-            please contact <a href="">Alvin</a> or <a href="">Bintang</a>.
+            please contact <a href="https://www.instagram.com/alvinreihans_/">Alvin</a> or <a href="https://www.instagram.com/bintanggrff/">Bintang</a>.
           </p>
         </div>
       </section>
