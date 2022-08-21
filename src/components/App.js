@@ -42,7 +42,7 @@ export default function App() {
         <header>
           <div className="image-text">
             <span className="image">
-              <img src="assets\images\general\Smansa-Logo.png alt="""></img>
+              <img src="assets\images\general\Smansa-Logo.png alt=""></img>
             </span>
           </div>
         </header>
